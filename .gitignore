@@ -12,6 +12,10 @@ venv/
 .pytest_cache/
 .vs/
 *.bak
+.vs/
+*.pyproj.user
+*.slnx
+src/
 
 # Virtual environments
 .venv
